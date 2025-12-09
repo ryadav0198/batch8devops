@@ -1,2 +1,4 @@
 this is neew file to save in git
-this new file an second line to add in the git
+this new file an second paragraph to sub in the git
+
+noew we need to checkin vscode
