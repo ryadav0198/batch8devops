@@ -1,6 +1,7 @@
 this is neew file to save in git
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 this new file an second paragraph to sub in the git
 
 <<<<<<< HEAD
@@ -10,6 +11,8 @@ e
 =======
 noew we need to checkin vscode
 >>>>>>> c403e17 ( this is third commit)
+=======
+>>>>>>> 9129ed0 (this is my first commit)
 =======
 >>>>>>> 9129ed0 (this is my first commit)
 =======
