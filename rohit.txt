@@ -1,6 +1,10 @@
 this is neew file to save in git
 this new file an second paragraph to sub in the git
 
+<<<<<<< HEAD
 noew we need to checkin vscod
 this is vs coedee
 e
+=======
+noew we need to checkin vscode
+>>>>>>> c403e17 ( this is third commit)
