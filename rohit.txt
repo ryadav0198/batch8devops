@@ -1,4 +1,6 @@
 this is neew file to save in git
 this new file an second paragraph to sub in the git
 
-noew we need to checkin vscode
+noew we need to checkin vscod
+this is vs coedee
+e
