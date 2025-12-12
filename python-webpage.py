@@ -1,0 +1,32 @@
+from flask import Flask
+
+#app = Flask(__name__)
+application = Flask(__name__)
+
+#@app.route("/")
+@application.route("/")
+def home():
+    return """
+    <html>
+        <head>
+            <title>My Simple Python Webpage Rohit</title>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    text-align: center;
+                    background-color: #f4f6f8;
+                    margin-top: 100px;
+                }
+                h1 { color: #2c3e50; }
+                p { color: #555; font-size: 18px; }
+            </style>
+        </head>
+        <body>
+            <h1>Hello, Rohit 👋</h1>
+            <p>This is a simple webpage made with Python Flask. rohit </p>
+        </body>
+    </html>
+    """
+
+if __name__ == "__main__":
+    aapplication.run(host="0.0.0.0", port=5000, debug=True)pp.run(host="0.0.0.0", port=5000, debug=True)
